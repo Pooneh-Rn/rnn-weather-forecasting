@@ -1,7 +1,7 @@
 # RNN-1: Multivariate Weather Forecasting
 
 Forecasting temperature from the Jena Climate dataset using recurrent neural networks. Built as
-part of a Deep Learning course project (Spring 2026) — the base task compares LSTM, GRU, and a
+part of an Advanced Data Mining course project (Spring 2026) — the base task compares LSTM, GRU, and a
 simple sequence-to-sequence model, and the original contribution tests whether adding attention
 over an LSTM's past hidden states improves multi-step forecasts.
 
